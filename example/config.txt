@@ -1,0 +1,2 @@
+Prefix plugins/SelectGeneFamilies/example/
+Plugin SelectGeneFamilies inputfile parameters.txt outputfile gene_families.csv
